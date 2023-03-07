@@ -10,7 +10,7 @@ CREATE TABLE student(
     grade INT NOT NULL,
     major VARCHAR(50)
 );
-DESC student;
+DESC stent;
 
 -- INSERT 구문
 -- INSERT INTO 테이블명 (컬럼명1, 컬럼명2, ...) VALUES (값1, 값2);
